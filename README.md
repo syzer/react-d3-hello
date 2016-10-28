@@ -1,5 +1,12 @@
 # https://hackernoon.com/building-d3-components-with-react-7510e4743288#.laoaoy4ac
 
+#HOW
+```
+create-react-app react-d3
+# v4 .. much different than v3
+npm i --save d3
+```
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
